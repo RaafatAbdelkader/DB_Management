@@ -15,7 +15,7 @@ CREATE SCHEMA production;
 GO
 CREATE SCHEMA sales;
 GO
-													/***1-Sales***/
+													/*1-Sales*/
 -->Tabelle : kundendaten
 
 CREATE TABLE sales.customers(
