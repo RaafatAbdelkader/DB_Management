@@ -1,4 +1,4 @@
-/**** Data_Erstellung***thats normal*/
+/**** Data_Erstellung****/
 USE sales_DB;
 GO
 
