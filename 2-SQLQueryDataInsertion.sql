@@ -1,16 +1,16 @@
-/**** Data_Erstellung****/
+/**** Data_Erstellung***this file has been modified*/
 USE sales_DB;
 GO
 
 INSERT INTO sales.customers(first_name,last_name,email,phone,street,city,state,zip_code)
 VALUES 
 ('Tomas','Schmidt','schmidt@gmail.com','0162552635','Nanostr.','Heidelberg','MG','12536'),
-('Max','Müller','Max@outlook.com','017255444','Albertstr.','Frankfurt','GJ','18265'),
+('Max','MÃ¼ller','Max@outlook.com','017255444','Albertstr.','Frankfurt','GJ','18265'),
 ('Jak','Friedrich','Jak@gmail.com','016255299','Maxstr.','Freiburg','MG','12245'),
-('Anton','Schneider','Anton@gmail.com','0162552656','Müllerstr.','Berlin','MG','12245'),
+('Anton','Schneider','Anton@gmail.com','0162552656','MÃ¼llerstr.','Berlin','MG','12245'),
 ('Karl','Adam','Karl@gmail.com','0172598657','Manostr.','Heidelberg','MG','12245'),
 ('Martin','Jak','Martin@yahoo.com','01624815152','karlstr.','Freiburg','BWB','12245'),
-('Mano','schneider','Mano@gmail.com','01645152657','Müllerstr.','Frankfurt','BWB','12245')
+('Mano','schneider','Mano@gmail.com','01645152657','MÃ¼llerstr.','Frankfurt','BWB','12245')
 
 GO
 
