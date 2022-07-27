@@ -1,4 +1,4 @@
-/**** Data_Erstellung***this file has been modified*/
+/**** Data_Erstellung***thats normal*/
 USE sales_DB;
 GO
 
